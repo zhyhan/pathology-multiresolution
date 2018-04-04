@@ -1,6 +1,7 @@
 # Multiresolution pathological image processing.
 
 Step 1: all.py (including prepocess.py and train.py)
+
 Step 2: test_multiresolution.py
 
 Path.cfg is a configuration file, which includes several key params.
